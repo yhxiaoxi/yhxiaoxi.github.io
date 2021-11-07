@@ -1,0 +1,14 @@
+@font-face {
+    font-family:'arzhu';
+    src:url('https://cdn.jsdelivr.net/gh/yhxiaoxi/ziyuanbao@27c240ddf361c00aae9b47cb2878d9626c203106/%E9%B8%BF%E9%9B%B7%E6%9D%BF%E4%B9%A6%E7%AE%80%E4%BD%93-Regular.ttf'); /* 修改成你的字体 */
+    font-display:swap
+}
+h1#site-title {
+    font-family:arzhu!important
+}
+span#subtitle {
+    font-family:arzhu!important
+}
+a#site-name {
+    font-family:arzhu!important
+}
